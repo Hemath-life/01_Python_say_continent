@@ -9,11 +9,9 @@ Enter the continent name
 ![image](images/Screenshot%20from%202021-01-16%2007-27-46.png)
 
 if you give correct continent name it will show where it is in the world map
-![image](images/Screenshot%20from%202021-01-16%2007-27-46.png)
-
-again ask the conninent name
 ![image](images/Screenshot%20from%202021-01-16%2007-27-53.png)
 
+again ask the conninent name
 
 ![image](images/Screenshot%20from%202021-01-16%2007-28-08.png)
 
