@@ -5,7 +5,7 @@ This the Game where you test your 7 continent u know are not.
 ask to the user the coninent name 
 ![image](images/Screenshot%20from%202021-01-16%2007-20-34.png)
 
-Playet enter the continent name
+Enter the continent name
 ![image](images/Screenshot%20from%202021-01-16%2007-27-46.png)
 
 if you give correct continent name it will show where it is in the world map
