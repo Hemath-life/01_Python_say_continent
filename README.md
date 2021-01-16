@@ -1,6 +1,7 @@
 # 01_Python_say_continent
 
-This the Game where you test your 7 continent u know are not.
+""This is a small puzzle to test 
+Whether you know the names of 7 continents or not??""
 
 ask to the user the coninent name 
 ![image](images/Screenshot%20from%202021-01-16%2007-20-34.png)
